@@ -12,7 +12,6 @@
   <br>
   <br>
   <br>
-  <br>
   <img src="https://sun9-6.userapi.com/s/v1/ig2/5ESf8xKjeLb2zC2Dknp_sYExIKqducawfV4ITXbq6RmdkzPE_Ck6u1F2YeedTvOuzjsd7t9kMMOGL-sjEq8I1Amq.jpg?size=200x200&quality=95&crop=0,339,1187,1187&ava=1" width="100" height="100" style="border-radius: 50%;" align="left"/>
 
   <big>
