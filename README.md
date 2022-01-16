@@ -22,7 +22,6 @@
 <br>
 <br>
 <br>
-<br>
 <img src="https://sun9-66.userapi.com/s/v1/ig2/gCiuLTU4vR23HcDzKe6ZRTCNPmWEYkB59ve7Pguc5m5Hbh-nPy1O87hYMfEp9lT9igi1joZSJ1hbACP6lurPU7vC.jpg?size=200x200&quality=95&crop=926,462,618,618&ava=1" width="100" height="100" style="border-radius: 50%;" align="left"/>
 <big>
   Андрей Романов
