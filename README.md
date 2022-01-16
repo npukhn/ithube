@@ -1,4 +1,3 @@
-# ITHube
 ## ✌ Коротко о нас
 
 <img src="https://sun9-87.userapi.com/s/v1/ig2/G6daB3wXFk3YclG_ZNOgc6vK-mGwQXJaz6Qdxa0sPjNsVijFd6OM_Yq1Rn0qUorP5e5TCzV1Vu2tCbG3WMKQLwGr.jpg?size=200x200&quality=95&crop=421,389,1266,1266&ava=1" width="100" height="100" style="border-radius: 50%;" align="left"/>
